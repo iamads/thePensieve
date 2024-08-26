@@ -12,3 +12,4 @@ description: My Product ideas
 ---
 
 - Intermittent fasting app
+- https://github.com/syncthing/syncthing (Read up on this)
