@@ -15,5 +15,7 @@ description: shit I wanna do some time
 - learn to drive
 - Kashmir Great Lakes
 - build products
+  - https://github.com/syncthing/syncthing?tab=readme-ov-file
+  - https://www.reddit.com/r/ProductManagement/comments/128p27t/my_ultimate_visual_guide_to_the_best_books_for/ 
 
 That's all going on in my mind right now!
